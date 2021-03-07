@@ -32,7 +32,7 @@ To run this program on your local machine, simply follow the steps below:
 
 ## Acknowledgements
 * [Microverse](https://www.microverse.org)
-* [Worldo Meters](https://www.worldometers.info/coronavirus/)
+* [CNN](https://edition.cnn.com/interactive/2020/health/coronavirus-maps-and-cases/)
 
 ## License
 * This project is [MIT](https://github.com/Diegodsha/Ruby-Enumerables/blob/feature/enums/LICENSE) licensed.
