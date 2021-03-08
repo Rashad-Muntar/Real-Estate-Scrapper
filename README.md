@@ -23,7 +23,7 @@ To run this program on your local machine, simply follow the steps below:
 ### Usage
 * Clone this repo on your local machine by running `git clone https://github.com/Diegodsha/Ruby-Enumerables.git`
 * cd into the folder you just cloned
-* run `ruby main.rb`
+* run `ruby ./lib/main.rb`
 
 ## Built With
 * Ruby programming language
