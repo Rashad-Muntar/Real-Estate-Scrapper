@@ -1,7 +1,6 @@
 require './lib/scrapper'
 
 describe Scrapper do
-
   describe '#price' do
     it 'Returns a array containing contents of elements from the NodeSets given' do
       scrapper = Scrapper.new

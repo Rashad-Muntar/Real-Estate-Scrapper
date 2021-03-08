@@ -28,5 +28,3 @@ while input != 'YES' || input != 'NO'
     break
   end
 end
-
-new_search.display_property
