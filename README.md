@@ -15,7 +15,7 @@ To run this program on your local machine, simply follow the steps below:
 ![2](https://user-images.githubusercontent.com/58520480/110329407-64be0800-7fd1-11eb-9ba1-f8d015fb4e27.PNG)
 
 ## List of all available property listing
-![2](https://user-images.githubusercontent.com/58520480/110329407-64be0800-7fd1-11eb-9ba1-f8d015fb4e27.PNG)
+![3](https://user-images.githubusercontent.com/58520480/110329778-e877f480-7fd1-11eb-8580-40ce2085e09e.PNG)
 
 ### Prerequisites
 * Install the [ruby programming language](https://www.ruby-lang.org/en/documentation/installation/)
