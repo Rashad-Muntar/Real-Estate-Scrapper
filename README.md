@@ -21,7 +21,7 @@ To run this program on your local machine, simply follow the steps below:
 * Install the [ruby programming language](https://www.ruby-lang.org/en/documentation/installation/)
 
 ### Usage
-* Clone this repo on your local machine by running `git clone https://github.com/Diegodsha/Ruby-Enumerables.git`
+* Clone this repo on your local machine by running `https://github.com/Rashad-Muntar/Real-Estate-Scrapper.git`
 * cd into the folder you just cloned
 * run `ruby ./lib/main.rb`
 
