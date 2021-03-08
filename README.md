@@ -1,12 +1,21 @@
-# Enumerable-Methods - Microverse Milestone Project
->Ruby Enumerable Methods logic implementation
+# Web Scrapper - Microverse Capstone Project for ruby module
+>Web Scrapper logic implementation
 
 # About project
-This is is a ruby programming language web scrapper application. It fetches current covid-19 cases recorded by countries across the globe. It sort the data base on the numbers recorded by the countries, thus higher cases first.
+This is fully ruby programming language web scrapper application. It fetches current real estate listing from  Tonatone.come . It sort the data base on which listing was poested first. It fetches for the first 27 most current listing. User can also filter by the name of the property they are looking for.  
 
 
 ## Getting Started
 To run this program on your local machine, simply follow the steps below:
+
+## User initial welcoming message with a call to action
+![1](https://user-images.githubusercontent.com/58520480/110329222-2aed0180-7fd1-11eb-8281-9797e49569be.PNG)
+
+## User user result for a filtered property listing
+![2](https://user-images.githubusercontent.com/58520480/110329407-64be0800-7fd1-11eb-9ba1-f8d015fb4e27.PNG)
+
+## List of all available property listing
+![2](https://user-images.githubusercontent.com/58520480/110329407-64be0800-7fd1-11eb-9ba1-f8d015fb4e27.PNG)
 
 ### Prerequisites
 * Install the [ruby programming language](https://www.ruby-lang.org/en/documentation/installation/)
@@ -22,6 +31,9 @@ To run this program on your local machine, simply follow the steps below:
 ## Dependencies
 * HTTParty
 * Nokogiri
+* colorize
+* byebug
+* abbrev
 
 ## Authors
 
@@ -32,7 +44,7 @@ To run this program on your local machine, simply follow the steps below:
 
 ## Acknowledgements
 * [Microverse](https://www.microverse.org)
-* [CNN](https://edition.cnn.com/interactive/2020/health/coronavirus-maps-and-cases/)
+* [Tonaton](https://tonaton.com/)
 
 ## License
-* This project is [MIT](https://github.com/Diegodsha/Ruby-Enumerables/blob/feature/enums/LICENSE) licensed.
+* This project is [MIT](https://github.com/Rashad-Muntar/Real-Estate-Scrapper/tree/feature/scrapper/LICENSE) licensed.
